@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @jake-prest
-- 👀 I’m interested in education, technology, and educational technology.
-- 🌱 I’m currently learning about creativity in education and project based learning.
-- 💞️ I’m looking to collaborate on projects that a beginner has taken on to learn how to start coding. 
-- 📫 Reach me through my website, https://prest.tech
+👋 Hi, I’m Jake Prest — a senior technical instructor at AWS with over 11 years of experience in cloud computing, software development, and customer enablement.
 
-<!---
-jake-prest/jake-prest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌩️ I specialize in designing and delivering high-impact solutions using AWS services (Lambda, Connect, API Gateway, etc.) and enjoy guiding teams through complex migrations, integrations, and skills transformations.
+
+🎓 I’m passionate about teaching and breaking down complex technical concepts—helping over 1,000 enterprise staff upskill through custom cloud learning journeys.
+
+📱 Currently building a toddler language development app (with AI integration) as a side project with my wife, a speech therapist—blending my tech background with our shared passion for early childhood development. This repo is currently private.
+
+🛠️ Tech Stack: JavaScript (React, Node), Python, Java, AWS (Pro certs), React Native, RESTful APIs, Serverless
+
+📍Based in Dublin | 🇺🇸 Citizen | 🇮🇪 Stamp 4
